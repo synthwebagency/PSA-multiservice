@@ -1,0 +1,5 @@
+{
+  "name": "Lavandaria Psa Multiservice",
+  "description": "Website premium para Lavandaria Psa Multiservice em Tete, Moçambique. Serviços de lavandaria, bordados, lavagem de carros e mais.",
+  "requestFramePermissions": ["geolocation"]
+}
